@@ -1,7 +1,7 @@
 {
   "name": "warapi-client",
   "version": "0.0.0",
-  "license": "MIT",
+  "license": "cc-by-nc-4.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -26,6 +26,7 @@
     "zone.js": "^0.8.19"
   },
   "devDependencies": {
+    "@angular/cli": "^1.7.4",
     "@angular/compiler-cli": "^5.2.0",
     "@angular/language-service": "^5.2.0",
     "@types/jasmine": "~2.8.3",
