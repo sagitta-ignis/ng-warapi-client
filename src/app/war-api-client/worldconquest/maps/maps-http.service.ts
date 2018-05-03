@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 import { WarApiHttpClient } from '../../war-api-http-client.service';
-import { IWorldconquestMap } from './worldconquest-map';
+import { IWorldconquestMap } from './map';
 import { Observable } from 'rxjs/Observable';
 
 @Injectable()

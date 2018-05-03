@@ -3,7 +3,7 @@ import { TestBed, inject } from '@angular/core/testing';
 import { HttpTestingController, HttpClientTestingModule } from '@angular/common/http/testing';
 import { WarApiClientModule } from '../../war-api-client.module';
 
-import { WorldconquestMapsHttpService } from './worldconquest-maps-http.service';
+import { WorldconquestMapsHttpService } from './maps-http.service';
 
 import { maps as testMaps } from '../../../../assets/mocks/maps';
 import { map as testStaticMap } from '../../../../assets/mocks/static-map';

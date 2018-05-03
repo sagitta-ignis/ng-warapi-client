@@ -1,5 +1,5 @@
 import { NgModule } from '@angular/core';
-import { WorldconquestMapsHttpService } from './worldconquest-maps-http.service';
+import { WorldconquestMapsHttpService } from './maps-http.service';
 import { WarApiClientModule } from '../../war-api-client.module';
 
 @NgModule({

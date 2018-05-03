@@ -1,5 +1,5 @@
-import { IWorldconquestMapItem } from './worldconquest-map-item';
-import { IWorldconquestMapTextItem } from './worldconquest-map-text-item';
+import { IWorldconquestMapItem } from './map-item';
+import { IWorldconquestMapTextItem } from './map-text-item';
 
 export interface IWorldconquestMap {
   mapItems: IWorldconquestMapItem[];
